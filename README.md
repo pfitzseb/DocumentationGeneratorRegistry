@@ -22,6 +22,7 @@ There are three options for specifying how (with the `method` key) and where (wi
 
 Each package is specified by UUID, which is also the top-level key. Required sub-keys are `method`, `location`, and `name`:
 ```
+# replace by the actual UUID of the package "PackageName" 
 [uuid]
 name = "PackageName"
 method = "hosted"
